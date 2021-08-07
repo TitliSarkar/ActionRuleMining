@@ -1,0 +1,110 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.13941176470588235, confidence: 0.19570873057080676 and uplift: -0.04674562191288728.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.1376470588235294, confidence: 0.17658284489134862 and uplift: -0.0635451777753615.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '3' is changed to '4', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.12588235294117647, confidence: 0.18710024866029282 and uplift: -0.049665970772442586.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.12352941176470589, confidence: 0.206337672185012 and uplift: -0.034992380371837856.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '3' is changed to '4', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.10147058823529412, confidence: 0.22218362983143566 and uplift: -0.018825910931174084.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '3' is changed to '4', attribute 'stringency_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09647058823529411, confidence: 0.20968896545123938 and uplift: -0.026565803276042882.
+
+Rule 7: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '3' is changed to '4', attribute 'stringency_index_discretized' value '3' is changed to '4', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09264705882352942, confidence: 0.2169623162929847 and uplift: -0.020937122649646367.
+
+Rule 8: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.11352941176470588, confidence: 0.1395965603150366 and uplift: -0.0801790281329923.
+
+Rule 9: If attribute 'population_density_discretized' is 'low', attribute 'government_response_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09911764705882353, confidence: 0.12192474674384951 and uplift: -0.09224695666978802.
+
+Rule 10: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '4' is changed to '3', attribute 'government_response_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09235294117647058, confidence: 0.1260438413361169 and uplift: -0.08105798051704757.
+
+Rule 11: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08176470588235295, confidence: 0.10978769114116012 and uplift: -0.093894368723099.
+
+Rule 12: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.08, confidence: 0.0866977144592903 and uplift: -0.14648635424594975.
+
+Rule 13: If attribute 'population_density_discretized' is 'low', attribute 'economic_support_index_discretized' value '2' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.10823529411764705, confidence: 0.23818948249573976 and uplift: -0.005306524594949652.
+
+Rule 14: If attribute 'population_density_discretized' is 'low', attribute 'economic_support_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.10823529411764705, confidence: 0.4252676355902162 and uplift: 0.0599124215443001.
+
+Rule 15: If attribute 'population_density_discretized' is 'low', attribute 'economic_support_index_discretized' value '1' is changed to '2', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.08676470588235294, confidence: 0.33104991394148015 and uplift: 0.04429305457122608.
+
+Rule 16: If attribute 'population_density_discretized' is 'low', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.13088235294117648, confidence: 0.3791606367583213 and uplift: 0.04962543628160382.
+
+Rule 17: If attribute 'population_density_discretized' is 'low', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.13088235294117648, confidence: 0.45229007633587787 and uplift: 0.05919678940278402.
+
+Rule 18: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12823529411764706, confidence: 0.37849324962497916 and uplift: 0.04832406743185079.
+
+Rule 19: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12352941176470589, confidence: 0.43225890212092954 and uplift: 0.0553139286802804.
+
+Rule 20: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12411764705882353, confidence: 0.3771224307417337 and uplift: 0.048360405824528205.
+
+Rule 21: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '1' is changed to '4', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.10147058823529412, confidence: 0.46558704453441296 and uplift: 0.059704691593236485.
+
+Rule 22: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12764705882352942, confidence: 0.38861804795542737 and uplift: 0.049411764705882356.
+
+Rule 23: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12764705882352942, confidence: 0.42956301788788454 and uplift: 0.054710775252799826.
+
+Rule 24: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12764705882352942, confidence: 0.38455414012738853 and uplift: 0.049087204945672536.
+
+Rule 25: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '4', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12588235294117647, confidence: 0.44676409185803756 and uplift: 0.05702812231364362.
+
+Rule 26: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.12058823529411765, confidence: 0.3787650360866079 and uplift: 0.04791381668946648.
+
+Rule 27: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '4', attribute 'stringency_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09647058823529411, confidence: 0.44682843763303537 and uplift: 0.05668240135560396.
+
+Rule 28: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'stringency_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.1161764705882353, confidence: 0.3794428434197887 and uplift: 0.04821156128157315.
+
+Rule 29: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '4', attribute 'stringency_index_discretized' value '1' is changed to '4', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09264705882352942, confidence: 0.46187683284457476 and uplift: 0.058685526996722435.
+
+Rule 30: If attribute 'population_density_discretized' is 'low', attribute 'urban_percentage_discretized' is 'high', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08911764705882352, confidence: 0.19002803284302405 and uplift: -0.02758223111729899.
+
+Rule 31: If attribute 'population_density_discretized' is 'low', attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08470588235294117, confidence: 0.16725639874270318 and uplift: -0.040332285585990155.
+
+Rule 32: If attribute 'population_density_discretized' is 'low', attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08088235294117647, confidence: 0.19557070530298132 and uplift: -0.024697778625226416.
+
+Rule 33: If attribute 'urban_percentage_discretized' is 'high', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.1, confidence: 0.1657642648896293 and uplift: -0.0455.
+
+Rule 34: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.095, confidence: 0.14555982586218624 and uplift: -0.05951000732243107.
+
+Rule 35: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '3' is changed to '4', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08941176470588236, confidence: 0.15462239583333331 and uplift: -0.04823529411764706.
+
+Rule 36: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09852941176470588, confidence: 0.17542141698335445 and uplift: -0.040177927302996685.
+
+Rule 37: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '3' is changed to '4', attribute 'government_response_index_discretized' value '3' is changed to '4', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08352941176470588, confidence: 0.1816186265528397 and uplift: -0.028296160721886454.
+
+Rule 38: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.11088235294117647, confidence: 0.20515611182912727 and uplift: -0.02660008265601324.
+
+Rule 39: If attribute 'urban_percentage_discretized' is 'high', attribute 'government_response_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.10323529411764706, confidence: 0.18316632775559202 and uplift: -0.04148788927335642.
+
+Rule 40: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '4' is changed to '3', attribute 'government_response_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09676470588235295, confidence: 0.19459025065104169 and uplift: -0.030931372549019592.
+
+Rule 41: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.09735294117647059, confidence: 0.1691890570482477 and uplift: -0.043951015034989244.
+
+Rule 42: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '4' is changed to '3', attribute 'stringency_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.08352941176470588, confidence: 0.19724297590234663 and uplift: -0.02178659370725035.
+
+Rule 43: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '4' is changed to '3', attribute 'government_response_index_discretized' value '4' is changed to '3', then 'confirmed_deaths_discretized' value 'high' is changed to 'medium' with support: 0.0838235294117647, confidence: 0.1803661758653195 and uplift: -0.03053516819571865.
+
+Rule 44: If attribute 'urban_percentage_discretized' is 'high', attribute 'economic_support_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.0826470588235294, confidence: 0.39603484861011046 and uplift: 0.0408560076012784.
+
+Rule 45: If attribute 'urban_percentage_discretized' is 'high', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09735294117647059, confidence: 0.42136854741896757 and uplift: 0.0410214674104936.
+
+Rule 46: If attribute 'urban_percentage_discretized' is 'high', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09735294117647059, confidence: 0.4061224489795918 and uplift: 0.03953721488595438.
+
+Rule 47: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09558823529411764, confidence: 0.4321215143040893 and uplift: 0.04126619552414606.
+
+Rule 48: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09558823529411764, confidence: 0.3938353686769302 and uplift: 0.037583934517203106.
+
+Rule 49: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.08411764705882353, confidence: 0.43730886850152906 and uplift: 0.04180158301852851.
+
+Rule 50: If attribute 'urban_percentage_discretized' is 'high', attribute 'stringency_index_discretized' value '1' is changed to '4', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.08352941176470588, confidence: 0.4109985528219971 and uplift: 0.0392866263726909.
+
+Rule 51: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09529411764705882, confidence: 0.4400936768149883 and uplift: 0.04190349910455986.
+
+Rule 52: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09529411764705882, confidence: 0.3836706032556655 and uplift: 0.036493470832316334.
+
+Rule 53: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09529411764705882, confidence: 0.4283854166666667 and uplift: 0.04082261029411765.
+
+Rule 54: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '1' is changed to '4', attribute 'government_response_index_discretized' value '1' is changed to '4', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.09529411764705882, confidence: 0.390625 and uplift: 0.03722426470588235.
+
+Rule 55: If attribute 'urban_percentage_discretized' is 'high', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.08352941176470588, confidence: 0.438951095798641 and uplift: 0.04166484268125855.
+

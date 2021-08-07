@@ -1,0 +1,90 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07911764705882353, confidence: 0.37534902273633824 and uplift: 0.27676470588235297.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.16117647058823528, confidence: 0.4544228652913186 and uplift: 0.1580536912751678.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07911764705882353, confidence: 0.4942263279445728 and uplift: 0.1888235294117647.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1461764705882353, confidence: 0.32165691648624994 and uplift: 0.06421669550173009.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12058823529411765, confidence: 0.49160671462829736 and uplift: 0.12165608689518972.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12441176470588235, confidence: 0.4216031967753245 and uplift: 0.14640292107731476.
+
+Rule 7: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07852941176470589, confidence: 0.440032414910859 and uplift: 0.15970588235294117.
+
+Rule 8: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.11, confidence: 0.4895287958115183 and uplift: 0.11.
+
+Rule 9: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07852941176470589, confidence: 0.4895287958115183 and uplift: 0.11.
+
+Rule 10: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.0861764705882353, confidence: 0.44824526512254076 and uplift: 0.08756802721088437.
+
+Rule 11: If attribute 'population_density_discretized' is 'low', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.11705882352941177, confidence: 0.13227542344990412 and uplift: -0.08673809278527522.
+
+Rule 12: If attribute 'population_density_discretized' is 'low', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.08823529411764706, confidence: 0.42259327973613686 and uplift: 0.07458983593437375.
+
+Rule 13: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.09147058823529412, confidence: 0.30698115941724613 and uplift: 0.035189376227438535.
+
+Rule 14: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07352941176470588, confidence: 0.4636250403653642 and uplift: 0.07086149863368331.
+
+Rule 15: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07911764705882353, confidence: 0.3988831272437176 and uplift: 0.29411764705882354.
+
+Rule 16: If attribute 'population_density_discretized' is 'low', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.15088235294117647, confidence: 0.36311359796642745 and uplift: 0.12011251480457957.
+
+Rule 17: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07911764705882353, confidence: 0.394919168591224 and uplift: 0.15088235294117647.
+
+Rule 18: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1461764705882353, confidence: 0.3033419319176378 and uplift: 0.05480493079584775.
+
+Rule 19: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.09852941176470588, confidence: 0.3847856294403729 and uplift: 0.09430314571871912.
+
+Rule 20: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12441176470588235, confidence: 0.36802930989227217 and uplift: 0.12610880343025593.
+
+Rule 21: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07852941176470589, confidence: 0.3841166936790924 and uplift: 0.13941176470588235.
+
+Rule 22: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.085, confidence: 0.3782722513089005 and uplift: 0.08500000000000002.
+
+Rule 23: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07852941176470589, confidence: 0.3782722513089005 and uplift: 0.08500000000000002.
+
+Rule 24: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07911764705882353, confidence: 0.4019265877265449 and uplift: 0.07845038015206084.
+
+Rule 25: If attribute 'population_density_discretized' is 'low', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.13147058823529412, confidence: 0.1485605886485104 and uplift: -0.07232632807939288.
+
+Rule 26: If attribute 'population_density_discretized' is 'low', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.08147058823529411, confidence: 0.390194461623033 and uplift: 0.0678251300520208.
+
+Rule 27: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.09441176470588235, confidence: 0.31685193624738267 and uplift: 0.03813055269802673.
+
+Rule 28: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.0811764705882353, confidence: 0.3485462313073021 and uplift: 0.07299745410692751.
+
+Rule 29: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07852941176470589, confidence: 0.3617300131061599 and uplift: 0.0811764705882353.
+
+Rule 30: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.09264705882352942, confidence: 0.39779732920942096 and uplift: 0.08446804234222163.
+
+Rule 31: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07852941176470589, confidence: 0.41284403669724773 and uplift: 0.09264705882352942.
+
+Rule 32: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.08676470588235294, confidence: 0.2579070503799606 and uplift: 0.020593425605536314.
+
+Rule 33: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.10941176470588235, confidence: 0.32522516183506894 and uplift: 0.04324048442906572.
+
+Rule 34: If attribute 'population_density_discretized' is 'low', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.075, confidence: 0.33520576382952744 and uplift: 0.020336426914153133.
+
+Rule 35: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.075, confidence: 0.7919254658385093 and uplift: 0.075.
+
+Rule 36: If attribute 'urban_percentage_discretized' is 'high', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.09176470588235294, confidence: 0.4035583243143362 and uplift: 0.09119015047879617.
+
+Rule 37: If attribute 'urban_percentage_discretized' is 'high', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.08029411764705882, confidence: 0.34370471976971073 and uplift: 0.046770095472744064.
+
+Rule 38: If attribute 'urban_percentage_discretized' is 'high', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07147058823529412, confidence: 0.4329446064139942 and uplift: 0.08735294117647059.
+
+Rule 39: If attribute 'urban_percentage_discretized' is 'high', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.08558823529411765, confidence: 0.15318985898645934 and uplift: -0.0426501646064973.
+
+Rule 40: If attribute 'urban_percentage_discretized' is 'high', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07529411764705882, confidence: 0.33726759562625824 and uplift: 0.02933745306633291.
+
+Rule 41: If attribute 'urban_percentage_discretized' is 'high', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.09176470588235294, confidence: 0.3706147876356149 and uplift: 0.08177838577291383.
+
+Rule 42: If attribute 'urban_percentage_discretized' is 'high', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.08029411764705882, confidence: 0.2883251869167906 and uplift: 0.028240683708038172.
+
+Rule 43: If attribute 'urban_percentage_discretized' is 'high', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07147058823529412, confidence: 0.37900874635568516 and uplift: 0.07647058823529412.
+
+Rule 44: If attribute 'urban_percentage_discretized' is 'high', attribute 'h3_contact_tracing' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.07941176470588235, confidence: 0.14213492070908598 and uplift: -0.0488266351947326.
+
+Rule 45: If attribute 'urban_percentage_discretized' is 'high', attribute 'h8_protection_of_elderly_people' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.07147058823529412, confidence: 0.45960502692998206 and uplift: 0.07529411764705882.
+

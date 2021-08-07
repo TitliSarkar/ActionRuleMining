@@ -1,0 +1,14 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.16117647058823528, confidence: 0.4544228652913186 and uplift: 0.1580536912751678.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1461764705882353, confidence: 0.32165691648624994 and uplift: 0.06421669550173009.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12058823529411765, confidence: 0.49160671462829736 and uplift: 0.12165608689518972.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12441176470588235, confidence: 0.4216031967753245 and uplift: 0.14640292107731476.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.11, confidence: 0.4895287958115183 and uplift: 0.11.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1461764705882353, confidence: 0.3033419319176378 and uplift: 0.05480493079584775.
+
+Rule 7: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.10941176470588235, confidence: 0.32522516183506894 and uplift: 0.04324048442906572.
+

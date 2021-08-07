@@ -1,0 +1,4 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '1.0' is changed to '3.0', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.1461764705882353, confidence: 0.3033419319176378 and uplift: 0.02918351835644202.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'h6_facial_coverings' value '0.0' is changed to '3.0', then 'confirmed_deaths_discretized' value 'low' is changed to 'medium' with support: 0.15088235294117647, confidence: 0.36311359796642745 and uplift: 0.05510936014128513.
+

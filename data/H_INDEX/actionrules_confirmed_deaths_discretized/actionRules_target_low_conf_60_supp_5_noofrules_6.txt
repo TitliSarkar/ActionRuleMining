@@ -1,0 +1,12 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.075, confidence: 0.7919254658385093 and uplift: 0.075.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.05411764705882353, confidence: 0.7679477495212153 and uplift: 0.053361344537815124.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h6_facial_coverings' value '3.0' is changed to '0.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.05411764705882353, confidence: 0.7763713080168776 and uplift: 0.05411764705882353.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'h2_testing_policy' value '3.0' is changed to '1.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.051176470588235295, confidence: 0.5937995674116798 and uplift: 0.034904024767801856.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.05205882352941176, confidence: 0.7937219730941704 and uplift: 0.05205882352941176.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '2.0' is changed to '0.0', attribute 'h8_protection_of_elderly_people' value '2.0' is changed to '0.0', attribute 'h7_vaccination_policy' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.05205882352941176, confidence: 0.7937219730941704 and uplift: 0.05205882352941176.
+

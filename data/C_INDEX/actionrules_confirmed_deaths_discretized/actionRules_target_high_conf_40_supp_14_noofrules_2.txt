@@ -1,0 +1,4 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '2.0' is changed to '1.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'high' with support: 0.14588235294117646, confidence: 0.17153417692226103 and uplift: -0.06083496605458605.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'c1_school_closing' value '3.0' is changed to '2.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'high' with support: 0.14470588235294118, confidence: 0.26614313102639775 and uplift: 0.010520838713009323.
+

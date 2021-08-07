@@ -1,0 +1,60 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.14882352941176472, confidence: 0.36870808136338645 and uplift: 0.1845986805937328.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1361764705882353, confidence: 0.40463162410324743 and uplift: 0.22409672920892493.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.13470588235294118, confidence: 0.40473878083138654 and uplift: 0.177277970011534.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12558823529411764, confidence: 0.41575754504586027 and uplift: 0.1573481308411215.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12558823529411764, confidence: 0.42679339937355165 and uplift: 0.13777281473336997.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12529411764705883, confidence: 0.4272915418550188 and uplift: 0.1292891582862653.
+
+Rule 7: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1261764705882353, confidence: 0.42834890965732086 and uplift: 0.16176470588235295.
+
+Rule 8: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1261764705882353, confidence: 0.41871455576559546 and uplift: 0.1302941176470588.
+
+Rule 9: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12588235294117647, confidence: 0.4528301886792453 and uplift: 0.1411764705882353.
+
+Rule 10: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12, confidence: 0.42105263157894735 and uplift: 0.12.
+
+Rule 11: If attribute 'population_density_discretized' is 'low', attribute 'c4_restrictions_on_gatherings' value '4.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.13823529411764707, confidence: 0.26758410654727066 and uplift: 0.018953165979767705.
+
+Rule 12: If attribute 'population_density_discretized' is 'low', attribute 'c1_school_closing' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1264705882352941, confidence: 0.5514984038873132 and uplift: 0.1833830306316075.
+
+Rule 13: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12588235294117647, confidence: 0.5516642217253215 and uplift: 0.15903263403263404.
+
+Rule 14: If attribute 'population_density_discretized' is 'low', attribute 'c1_school_closing' value '2.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12588235294117647, confidence: 0.5819935691318328 and uplift: 0.15970588235294117.
+
+Rule 15: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12558823529411764, confidence: 0.5662650602409639 and uplift: 0.13823529411764707.
+
+Rule 16: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12088235294117647, confidence: 0.5863052781740371 and uplift: 0.12088235294117647.
+
+Rule 17: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.12176470588235294, confidence: 0.6017441860465116 and uplift: 0.12176470588235294.
+
+Rule 18: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.14882352941176472, confidence: 0.39854865310610227 and uplift: 0.20195162177020337.
+
+Rule 19: If attribute 'population_density_discretized' is 'low', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1361764705882353, confidence: 0.4204788156477611 and uplift: 0.23292025862068966.
+
+Rule 20: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.13470588235294118, confidence: 0.4334578692402143 and uplift: 0.18992502883506343.
+
+Rule 21: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12558823529411764, confidence: 0.38948290465262747 and uplift: 0.1473481308411215.
+
+Rule 22: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12558823529411764, confidence: 0.4141073959951446 and uplift: 0.13365516767454644.
+
+Rule 23: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12529411764705883, confidence: 0.4147241435651653 and uplift: 0.1254656288745006.
+
+Rule 24: If attribute 'population_density_discretized' is 'low', attribute 'c3_cancel_public_events' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12558823529411764, confidence: 0.41065653236126726 and uplift: 0.1450542880703683.
+
+Rule 25: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1261764705882353, confidence: 0.38006230529595014 and uplift: 0.14352941176470588.
+
+Rule 26: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1261764705882353, confidence: 0.40926275992438566 and uplift: 0.12735294117647059.
+
+Rule 27: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12588235294117647, confidence: 0.4037735849056604 and uplift: 0.12588235294117647.
+
+Rule 28: If attribute 'population_density_discretized' is 'low', attribute 'c4_restrictions_on_gatherings' value '4.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.12323529411764705, confidence: 0.23854838434746045 and uplift: 0.003953165979767692.
+
+Rule 29: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '2.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1261764705882353, confidence: 0.41935483870967744 and uplift: 0.1261764705882353.
+
+Rule 30: If attribute 'population_density_discretized' is 'low', attribute 'c1_school_closing' value '3.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1264705882352941, confidence: 0.4737273447891336 and uplift: 0.14191650853889948.
+

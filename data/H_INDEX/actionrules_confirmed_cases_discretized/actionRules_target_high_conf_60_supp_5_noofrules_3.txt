@@ -1,0 +1,6 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'h8_protection_of_elderly_people' value '0.0' is changed to '2.0', attribute 'h7_vaccination_policy' value '0.0' is changed to '2.0', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.05088235294117647, confidence: 0.7757847533632287 and uplift: 0.09651675019783698.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '0.0' is changed to '2.0', attribute 'h7_vaccination_policy' value '0.0' is changed to '2.0', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.07058823529411765, confidence: 0.7453416149068323 and uplift: 0.058969674826452316.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'h1_public_information_campaigns' value '0.0' is changed to '2.0', attribute 'h8_protection_of_elderly_people' value '0.0' is changed to '2.0', attribute 'h7_vaccination_policy' value '0.0' is changed to '2.0', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.05088235294117647, confidence: 0.7757847533632287 and uplift: 0.06092192033764179.
+

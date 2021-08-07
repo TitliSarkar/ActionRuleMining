@@ -1,0 +1,14 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.14882352941176472, confidence: 0.36870808136338645 and uplift: 0.1845986805937328.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.1361764705882353, confidence: 0.40463162410324743 and uplift: 0.22409672920892493.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.13470588235294118, confidence: 0.40473878083138654 and uplift: 0.177277970011534.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'c4_restrictions_on_gatherings' value '4.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'high' is changed to 'low' with support: 0.13823529411764707, confidence: 0.26758410654727066 and uplift: 0.018953165979767705.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.14882352941176472, confidence: 0.39854865310610227 and uplift: 0.20195162177020337.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.1361764705882353, confidence: 0.4204788156477611 and uplift: 0.23292025862068966.
+
+Rule 7: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '1.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_deaths_discretized' value 'medium' is changed to 'low' with support: 0.13470588235294118, confidence: 0.4334578692402143 and uplift: 0.18992502883506343.
+

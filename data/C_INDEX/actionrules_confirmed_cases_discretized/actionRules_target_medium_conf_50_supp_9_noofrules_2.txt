@@ -1,0 +1,4 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'c6_stay_at_home_requirements' value '0.0' is changed to '1.0', attribute 'c1_school_closing' value '0.0' is changed to '3.0', then 'confirmed_cases_discretized' value 'low' is changed to 'medium' with support: 0.10823529411764705, confidence: 0.5447213518430135 and uplift: 0.06859748647233374.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'c1_school_closing' value '0.0' is changed to '3.0', attribute 'c7_movementrestrictions' value '0.0' is changed to '1.0', then 'confirmed_cases_discretized' value 'low' is changed to 'medium' with support: 0.10617647058823529, confidence: 0.502086230876217 and uplift: 0.06320379612206496.
+

@@ -1,0 +1,6 @@
+Rule 1: If attribute 'urban_percentage_discretized' is 'high', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', attribute 'c7_movementrestrictions' value '1.0' is changed to '0.0', then 'confirmed_cases_discretized' value 'high' is changed to 'low' with support: 0.05558823529411765, confidence: 0.7052238805970149 and uplift: 0.05558823529411765.
+
+Rule 2: If attribute 'urban_percentage_discretized' is 'high', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', then 'confirmed_cases_discretized' value 'high' is changed to 'low' with support: 0.06470588235294118, confidence: 0.7006369426751592 and uplift: 0.06470588235294118.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'c2_workplace_closing' value '1.0' is changed to '0.0', attribute 'c1_school_closing' value '2.0' is changed to '0.0', attribute 'c4_restrictions_on_gatherings' value '4.0' is changed to '0.0', then 'confirmed_cases_discretized' value 'high' is changed to 'low' with support: 0.05058823529411765, confidence: 0.7049180327868853 and uplift: 0.05058823529411765.
+

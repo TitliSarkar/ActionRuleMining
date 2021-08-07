@@ -1,0 +1,51 @@
+Attribute,Type,Discritized Values,Percentage,Actual Values ,Measurements across all states
+confirmed_cases_discretized,Target,high,100,135.81 to 1254.23,weekly average
+confirmed_cases_discretized,Target,medium,66,38.30 to 135.81,
+confirmed_cases_discretized,Target,low,33,0.00 to 38.30,
+,,,,,
+confirmed_deaths_discretized,Target,high,100,2.25 to 43.63,weekly average
+confirmed_deaths_discretized,Target,medium,66,0.67 to 2.25,
+confirmed_deaths_discretized,Target,low,33,0.00 to 0.67,
+,,,,,
+population_density_discretized,Stable,high,100,174.47 to 1207.83,Population density per capita 
+population_density_discretized,Stable,medium,66,58.03 to 174.47,
+population_density_discretized,Stable,low,33,1.28 to 58.03,
+,,,,,
+urban_percentage_discretized,Stable,high,100,73.75 to 95.00,Urban percentage per state 
+urban_percentage_discretized,Stable,medium,50,64.80 to 73.75,
+urban_percentage_discretized,Stable,low,25,38.70 to 64.80 ,
+,,,,,
+region,Stable,Region1_Boston,,"'Connecticut', 'Maine', 'Massachusetts', 'New Hampshire', 'Rhode Island', 'Vermont'",States included per region
+region,Stable,Region2_NewYork,,"'New Jersey', 'New York'",
+region,Stable,Region3_Philadelphia,,"'Delaware', 'Maryland', 'Pennsylvania', 'Virginia', 'West Virginia'",
+region,Stable,Region4_Atlanta,,"'Alabama', 'Florida', 'Georgia', 'Kentucky', 'Mississippi', 'North Carolina', 'South Carolina', 'Tennessee'",
+region,Stable,Region5_Chicago,,"'Illinois', 'Indiana', 'Michigan', 'Minnesota', 'Ohio', 'Wisconsin'",
+region,Stable,Region6_Dallas,,"'Arkansas', 'Louisiana', 'New Mexico', 'Oklahoma', 'Texas'",
+region,Stable,Region7_KansasCity,,"'Iowa', 'Kansas', 'Missouri', 'Nebraska'",
+region,Stable,Region8_Denver,,"'Colorado', 'Montana', 'North Dakota', 'South Dakota', 'Utah', 'Wyoming'",
+region,Stable,Region9_SanFrancisco,,"'Arizona', 'California', 'Hawaii', 'Nevada'",
+region,Stable,Region10_Seattle,,"'Alaska', 'Idaho', 'Oregon', 'Washington'",
+,,,,,
+stringency_index_discretized,Flexible,5,100,68.52 to 93.52,weekly average
+stringency_index_discretized,Flexible,4,80,59.91 to 68.52,
+stringency_index_discretized,Flexible,3,60,53.97 to 59.91,
+stringency_index_discretized,Flexible,2,40,43.42 to 53.97,
+stringency_index_discretized,Flexible,1,20,0.00 to 43.42,
+,,,,,
+containment_health_index_discretized,Flexible,5,100,65.48 to 79.66,weekly average
+containment_health_index_discretized,Flexible,4,80,60.24 to 65.48,
+containment_health_index_discretized,Flexible,3,60,55.72 to 60.24,
+containment_health_index_discretized,Flexible,2,40,46.43 to 55.72,
+containment_health_index_discretized,Flexible,1,20,0.00 to 46.43,
+,,,,,
+economic_support_index_discretized,Flexible,5,100,75.0 to 100.0,weekly average
+economic_support_index_discretized,Flexible,4,80,62.5  to 75.0,
+economic_support_index_discretized,Flexible,3,60,37.5 to 62.5,
+economic_support_index_discretized,Flexible,2,40,25.0  to 37.5,
+economic_support_index_discretized,Flexible,1,20,0.00 to 25.0,
+,,,,,
+government_response_index_discretized,Flexible,5,100,65.44 to 80.21,weekly average
+government_response_index_discretized,Flexible,4,80,59.96  to 65.44,
+government_response_index_discretized,Flexible,3,60,54.81 to 59.96,
+government_response_index_discretized,Flexible,2,40,45.31  to 54.81,
+government_response_index_discretized,Flexible,1,20,0.00 to 45.31,

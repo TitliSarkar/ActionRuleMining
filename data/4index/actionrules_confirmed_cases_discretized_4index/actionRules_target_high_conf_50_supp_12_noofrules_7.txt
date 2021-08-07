@@ -1,0 +1,14 @@
+Rule 1: If attribute 'population_density_discretized' is 'low', attribute 'economic_support_index_discretized' value '1' is changed to '2', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.14352941176470588, confidence: 0.552114744693058 and uplift: 0.08083451452870304.
+
+Rule 2: If attribute 'population_density_discretized' is 'low', attribute 'economic_support_index_discretized' value '1' is changed to '2', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.1223529411764706, confidence: 0.6046511627906976 and uplift: 0.07896032831737346.
+
+Rule 3: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.12823529411764706, confidence: 0.5314045224734707 and uplift: 0.06820346126255379.
+
+Rule 4: If attribute 'population_density_discretized' is 'low', attribute 'economic_support_index_discretized' value '1' is changed to '2', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.12117647058823529, confidence: 0.634344206591913 and uplift: 0.08123819898329702.
+
+Rule 5: If attribute 'population_density_discretized' is 'low', attribute 'stringency_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.12823529411764706, confidence: 0.5388739946380697 and uplift: 0.06910266519476424.
+
+Rule 6: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'stringency_index_discretized' value '1' is changed to '3', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.12705882352941175, confidence: 0.5293472333600642 and uplift: 0.06731326949384404.
+
+Rule 7: If attribute 'population_density_discretized' is 'low', attribute 'containment_health_index_discretized' value '1' is changed to '3', attribute 'stringency_index_discretized' value '1' is changed to '3', attribute 'government_response_index_discretized' value '1' is changed to '3', then 'confirmed_cases_discretized' value 'low' is changed to 'high' with support: 0.12705882352941175, confidence: 0.5369836695485111 and uplift: 0.06822851330734023.
+
